@@ -1,0 +1,11 @@
+{
+  "name": "coffeeshop",
+  "version": "0.1.0",
+  "description": "Coffee Shop software",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Kurisu Ishii",
+  "license": "UNLICENSED"
+}
